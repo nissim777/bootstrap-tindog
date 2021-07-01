@@ -1,0 +1,135 @@
+#title {
+  background-color: #A239EA;
+  color: white;
+  font-weight: bold;
+}
+
+#features {
+  margin: 4rem;
+}
+
+#testimonials {
+  background-color: #4C4C6D;
+  color: #FFE194;
+  text-align: center;
+}
+
+#press {
+  background-color: #4C4C6D;
+  text-align: center;
+}
+
+#pricing {
+  padding: 70px;
+}
+
+#cta {
+  background-color: #A239EA;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+#footer {
+  background-color: #FFE194;
+  text-align: center;
+}
+
+.carousel-inner {
+  padding: 7% 12%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+p {
+  color: grey;
+  font-weight: 600;
+}
+
+.row {
+  margin: 0;
+}
+
+.first-section {
+  padding: 3%;
+}
+
+.navbar-button:hover {
+  color: #CD113B !important;
+}
+
+.navbar-brand {
+  font-family: 'ubuntu';
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.download-button-hover:hover {
+  color: #39A2DB !important;
+}
+
+.title-image {
+  padding: 1%;
+  transform: rotate(20deg);
+}
+
+.feature {
+  padding: 5%;
+}
+
+.feature-icon {
+  size: 20px;
+  color: #A239EA;
+  margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+  color: #52006A;
+}
+
+.testimonial-text {
+  font-style: italic;
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 50%;
+  margin: 4rem;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 2rem;
+}
+
+.card-deck {
+  text-align: center;
+}
+
+.sign-up-button:hover {
+  color: #FFE194;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    width: 40%;
+  }
+}
